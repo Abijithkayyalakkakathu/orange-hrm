@@ -78,6 +78,8 @@ public class LoginPOM {
 	//@FindBy(id="resetBtn")
 	//public static WebElement reset;
 	
+	//from here
+	
 	@FindBy(xpath="//*[@id=\"menu__Performance\"]/b")
 	public static WebElement perf;
 	
